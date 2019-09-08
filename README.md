@@ -1,7 +1,18 @@
 # woo-zoho-order
 Woocommerce Zoho (Contacts &amp; Sales Order modules) Integration Plugin
 
-##Description
-When customers purchase product, according to their email address the plugin fetch contact information from Zoho Contacts module and update their personal information (Zoho to Woocommerce Order).
-If there is no record on zoho contacts, it will create new contact record.
-And put order to Zoho Sales Order module.
+Features
+--------
+
+* Fetch contact information from Zoho Contacts module when customers create an order.
+* Update order based on Zoho contact information.
+* Create contact record when contact information doesn't exist.
+* Create Sales Order record based on customer's order
+
+Installation &amp; Configuration
+--------------------------------
+
+	Go to Dashboard/Plugins and add new plugin.
+	Upload Woo-zoho-order.zip and click install.
+	Zoho Order on admin menu and input Client ID, Client secret, Domain, Grant Token taken from Zoho.
+	Click Generate Token button.
