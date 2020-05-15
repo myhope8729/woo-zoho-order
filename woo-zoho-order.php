@@ -3,7 +3,7 @@
 * Plugin Name: WooCommerce Zoho Order Integration Plugin
 * Description: Integrates WooCommerce Order with Zoho Contacts module and Zoho Sales Order module.
 * Version: 1.0.0
-* Author: Andres Orozco
+* Author: myhope1227
 * Plugin URI: 
 *
 * 
